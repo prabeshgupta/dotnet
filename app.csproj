@@ -7,10 +7,14 @@
     <Nullable>enable</Nullable>
 
     <!-- Program to start as main -->
-    <StartupObject>app.LargestElementInArray</StartupObject>
+    <StartupObject>app.Sms</StartupObject>
 
     <!-- Avoid generate Program files -->
     <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Vonage" Version="6.15.0" />
+  </ItemGroup>
 
 </Project>
