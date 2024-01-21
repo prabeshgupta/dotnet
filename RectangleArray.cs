@@ -1,4 +1,4 @@
-// Rectangle array is also called multidimensional array
+// Rectangle array is also called multidimensional array in matrix form. A rectangular array always has the same amount of columns for every row.
 
 using System;
 

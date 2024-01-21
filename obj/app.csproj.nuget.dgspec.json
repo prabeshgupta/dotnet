@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gamerzchoices\\Desktop\\app\\app.csproj": {}
+    "C:\\Users\\gamerzchoices\\Documents\\CODING\\.NET\\app\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gamerzchoices\\Desktop\\app\\app.csproj": {
+    "C:\\Users\\gamerzchoices\\Documents\\CODING\\.NET\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gamerzchoices\\Desktop\\app\\app.csproj",
+        "projectUniqueName": "C:\\Users\\gamerzchoices\\Documents\\CODING\\.NET\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\gamerzchoices\\Desktop\\app\\app.csproj",
+        "projectPath": "C:\\Users\\gamerzchoices\\Documents\\CODING\\.NET\\app\\app.csproj",
         "packagesPath": "C:\\Users\\gamerzchoices\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gamerzchoices\\Desktop\\app\\obj\\",
+        "outputPath": "C:\\Users\\gamerzchoices\\Documents\\CODING\\.NET\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gamerzchoices\\AppData\\Roaming\\NuGet\\NuGet.Config"

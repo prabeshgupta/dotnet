@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
 
     <!-- Program to start as main -->
-    <StartupObject>app.Sms</StartupObject>
+    <StartupObject>app.JaggedArray</StartupObject>
 
     <!-- Avoid generate Program files -->
     <GenerateProgramFile>false</GenerateProgramFile>
