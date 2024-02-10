@@ -1,0 +1,15 @@
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\bin\Debug\net8.0\Week3.exe
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\bin\Debug\net8.0\Week3.deps.json
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\bin\Debug\net8.0\Week3.runtimeconfig.json
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\bin\Debug\net8.0\Week3.dll
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\bin\Debug\net8.0\Week3.pdb
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.AssemblyInfoInputs.cache
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.AssemblyInfo.cs
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.csproj.CoreCompileInputs.cache
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.sourcelink.json
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.dll
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\refint\Week3.dll
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.pdb
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\Week3.genruntimeconfig.cache
+C:\Users\gamerzchoices\Documents\CODING\.NET\Week3\obj\Debug\net8.0\ref\Week3.dll
